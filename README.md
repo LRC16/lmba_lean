@@ -1,1 +1,1 @@
-# lmba_lean
+# theorems
